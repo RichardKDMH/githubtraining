@@ -1,3 +1,3 @@
 # A scratch repo on GitHub.com
 
-**new readme**
+**new readme** with markdown
